@@ -1,4 +1,5 @@
 Explication étape par étape
+============================
 
 1. Classe Ingredient
 Stocke le nom et le prix par dose.
